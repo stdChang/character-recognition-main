@@ -33,9 +33,9 @@ OCR-On-The-Go Application created under the supervision of UC Davis NLP research
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#The-Model">The Model</a></li>
+    <li><a href="#The Model">The Model</a></li>
     <li><a href="#Challenges">Challenges</a></li>
-    <li><a href="#References">References</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
