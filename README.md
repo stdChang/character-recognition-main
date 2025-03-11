@@ -9,6 +9,14 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+<!-- 
+To-do:
+techstack too long, condense?
+blocks of text for some sections
+include pictures from presentation, can help with text blocks
+
+-->
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -76,7 +84,7 @@ resources like time and comprehensive datasets of other languages.
 * [![Keras][Keras]][Keras-url]
 * [![TensorFlow][TensorFlow]][TensorFlow-url]
 
-## The Model (ONNX)
+## The Model
 
 
 Our model utilizes a combination of Convolutional Neural Network (CNN)
