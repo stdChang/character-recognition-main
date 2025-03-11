@@ -1,0 +1,6 @@
+[submodule "sentenceRecognizerModel"]
+	path = sentenceRecognizerModel
+	url = https://github.com/aosmani38/sentenceRecognizerModel/
+[submodule "plotting-ecs170-project"]
+	path = plotting-ecs170-project
+	url = https://github.com/takeuchi-masaki/plotting-ecs170-project
